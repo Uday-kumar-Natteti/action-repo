@@ -1,6 +1,6 @@
 # Action Repository
 
-This repository is used to trigger GitHub webhooks for testing the webhook monitoring system.
+This repository is used to trigger GitHub webhooks for testing the webhook monitoring system
 
 ## Testing Instructions
 
